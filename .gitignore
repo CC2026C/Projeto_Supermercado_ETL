@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+ETL/data/raw/*.csv
+ETL/data/processed/*.csv
+ETL/data/gold_tratada/*.csv
+resultados/*.png
